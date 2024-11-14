@@ -2,6 +2,8 @@
 - 📫 How to reach me: sydneypelz@gmail.com
 - 😄 Pronouns: she/her
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <!--
 **sydneypelz/sydneypelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

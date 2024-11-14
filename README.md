@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 📫 How to reach me: sydneypelz@gmail.com
+- 😄 Pronouns: she/her
 
 <!--
 **sydneypelz/sydneypelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,5 @@
 ## Hi there 👋
+Welcome to my GitHub page!
 - 📫 How to reach me: sydneypelz@gmail.com
 - 😄 Pronouns: she/her
 
